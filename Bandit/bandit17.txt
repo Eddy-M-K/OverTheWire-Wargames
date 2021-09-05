@@ -1,0 +1,3 @@
+Private key / xLYVMN9WE5zQ5vHacb0sZEVqbrp7nBTn (found in etc/bandit_pass) 
+
+- diff file1 file2 (< is from first file, > is from second file)

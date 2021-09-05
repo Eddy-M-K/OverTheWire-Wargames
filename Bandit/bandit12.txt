@@ -1,0 +1,6 @@
+5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu 
+
+- xxd -r to revert hexdump
+- gunzip to uncompress gzip (must rename to .gz first)
+- bzcat to uncompress bzip2 
+- tar -xvf to uncompress tar)

@@ -1,0 +1,4 @@
+GbKksEFF4yrVs6il55v6gwY5aVje5f0j 
+
+- Create a new shell, listen with nc -lvp[port]
+- Connect with ./suconnect [port] and then send the password on the listening terminal

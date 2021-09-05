@@ -1,0 +1,5 @@
+IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x 
+
+- s instead of x means setuid has been applied so we can run/modify the file with the owner permissions instead of the user permissions
+- run binary as bandit20 which gives access to the file bandit_pass/bandit20
+- ./bandit20-do cat /etc/bandit_pass/bandit20

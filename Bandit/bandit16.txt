@@ -1,0 +1,7 @@
+cluFn7wTiGryunymYOu4RcffSxQluehd 
+
+- nmap [host] -p[begin port]-[end port] (to search for open ports)
+- nmap host -p[port] -sV (to identify a port's specific service)
+- openssl s_client -connect host:[portnumber] then send password
+- OR use ncat [host] --ssl [port]
+- Private key stored in /tmp/pvt.key

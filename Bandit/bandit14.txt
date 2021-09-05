@@ -1,0 +1,4 @@
+Private key / 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e 
+
+- nc host [port number] then send password
+- nc -l [port number] to listen on that port
