@@ -1,1 +1,16 @@
-UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ 
+UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
+
+- create directory in tmp folder
+- create shell script
+
+------------------------------------------------------
+#!/bin/bash
+
+for i in {0000..9999}
+do
+        echo "UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ $i"
+done | nc localhost 30002 | uniq -u
+------------------------------------------------------
+
+- chmod +x script.sh
+- execute
