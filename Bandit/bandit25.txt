@@ -1,3 +1,10 @@
 uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
 
+- Default user shells are stored under /etc/passwd
+- bandit26 shell uses "more" for login screen then exits
+- make login screen small then do 
 
+ssh -i bandit26.sshkey bandit26@localhost
+
+- Press v to open text editor within more
+- Type in :e /etc/bandit_pass/bandit26 to edit the file and view the password
