@@ -1,2 +1,6 @@
 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
 
+- Make terminal window small like last time
+- :set shell=/bin/bash
+- :!ls -la
+- ./bandit27-do cat /etc/bandit_pass/bandit27
