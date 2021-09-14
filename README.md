@@ -1,4 +1,4 @@
-# OverTheWire-Wargames-Security-Preparation
+# Security Prep
 This repository serves as personal note-taking storage for my own security/hacking/CTF preparation with write-ups, solutions, etc.
 
 Examples include:
