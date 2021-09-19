@@ -1,0 +1,6 @@
+3ba3118a22e93127a4ed485be72ef5ea
+
+- mkdir /tmp/eddy
+- git clone ssh://bandit27-git@localhost/home/bandit27-git/repo
+- cd repo
+- cat README
