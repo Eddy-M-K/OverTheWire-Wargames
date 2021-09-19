@@ -1,0 +1,6 @@
+bbc96594b4e001778eee9975372716b2
+
+- `git clone` in /tmp/[directory name]
+- `cd .git`
+- `cat packed-refs`
+- `git show` on the first entry
