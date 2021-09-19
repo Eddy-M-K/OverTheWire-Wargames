@@ -1,0 +1,6 @@
+0ef186ac70e04ea33b4c1853d2526fa2
+
+- clone repository into /tmp/[directory name]
+- `git log` to view commit history
+- `git show` on the most recent commit to view the change log
+- find password there
