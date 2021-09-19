@@ -1,0 +1,8 @@
+5b90576bedb2cc04c86a9e924ce42faf
+
+- `mkdir /tmp/[directory name]`
+- `cd /tmp/[directory name]`
+- `git clone [repository name]`
+- `cd repo/.git`
+- `cat packed-refs`
+- `git show` on second entry (refs/tags/secret)
