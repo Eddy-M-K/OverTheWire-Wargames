@@ -1,1 +1,8 @@
 47e603bb428404d265f59c42920d81e5
+
+- clone repo into /tmp/[directory name]
+- remove .gitignore or edit .gitignore to remove *.txt
+- echo "May I come in?" > key.txt
+- git add -A
+- git commit -m "Commit Message"
+- git push
