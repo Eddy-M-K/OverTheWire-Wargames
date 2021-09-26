@@ -1,5 +1,5 @@
 Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ
 
 - Need to construct a custom HTTP request header which has the referer set as http://natas5.natas.labs.overthewire.org/
-- Use curl command in the format `curl --verbose -u user:password -H 'Referer: [link]`
-- Use curl command in the format `curl -v -u natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ -H 'Referer: http://natas5.natas.labs.overthewire.org/'`
+- Use curl command in the format `curl --verbose -u user:password -H 'Referer: [link] [link you want to make an HTTP request to]` 
+- Use curl command in the format `curl -v -u natas4:Z9tkRkWmpt9Qr7XrR5jWRkgOU901swEZ -H 'Referer: http://natas5.natas.labs.overthewire.org/' http://natas4.natas.labs.overthewire.org/`
