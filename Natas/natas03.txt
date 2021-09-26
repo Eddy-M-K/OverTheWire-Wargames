@@ -1,3 +1,5 @@
 sJIJNW6ucpu6HPZ1ZAchaDtwd7oGrD14
 
-- Under script and located in the object wechallinfo, the password is found under the "pass" value
+- Open up the robots.txt file to see what web crawlers are allowed and not allowed to see
+- Open up the directory /s3cr3t/
+- Open up users.txt
