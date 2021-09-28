@@ -1,0 +1,12 @@
+DBfUBfqQG69KvJvJ1iAbMoIpwSNQ9bWe
+
+- $_POST['secret'] goes from binary to hex then reverse string then base64 encoding
+- To reverse that procedure with the $encodedSecret, use 
+
+	xxd -r (revert for hex2bin) -p (plain hexdump style)
+	rev (reverse string)
+	base64 -d (--decode)	
+	
+- echo "3d3d516343746d4d6d6c315669563362" | xxd -r -p
+- echo "==QcCtmMml1ViV3b" | rev
+- echo "b3ViV1lmMmtCcQ==" | base64 -d
