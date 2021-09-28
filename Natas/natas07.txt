@@ -1,0 +1,4 @@
+7z3hEENjQtflzgnT29q7wAvMNfZdh0i9
+
+- Realize that all the subpages are located by /index.php?page=...
+- Paste in /etc/natas_webpass/natas8
