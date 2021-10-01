@@ -1,1 +1,5 @@
-W0mMhUcRRnG8dcghE4qvk3JA9lGt8nDl
+nOpp1igQAkUzaI1GUUjzn1bFVj7xCNzu
+
+- since ; | & are all forbidden, use grep to find the line of text you want
+- grep for a letter/number you believe will be part of the password
+- Search for `1 /etc/natas_webpass/natas11`
